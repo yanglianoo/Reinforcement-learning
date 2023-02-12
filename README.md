@@ -43,5 +43,38 @@
 >
 > 代码地址：[Towards Practical Multi-object Manipulation using Relational Reinforcement Learning (richardrl.github.io)](https://richardrl.github.io/relational-rl/)
 
+### 论文六：Grasp for Stacking via Deep Reinforcement Learning
 
+> 期刊/会议：ICRA 2020
+>
+> 代码地址：无
 
+### 论文七： Learning Visual Affordances with Target-Orientated Deep Q-Network to Grasp Objects by Harnessing Environmental Fixtures
+
+> 期刊/会议：CAC 中国自动化大会 2021
+>
+> 代码地址：
+
+### 论文八：Knowledge Induced Deep Q-Network for a Slide-to-Wall Object Grasping
+
+> 期刊/会议：CAC 中国自动化大会 2020
+>
+> 代码地址：
+
+### 论文九：Collaborative Pushing and Grasping of Tightly Stacked Objects via Deep Reinforcement Learning
+
+> 期刊/会议：JAS 2022(IEEE/CAA Journal of Automatica Sinica)
+>
+> 代码地址：
+
+### 论文十：GE-Grasp: Efficeint Target Oriented Grasping in Dense Clutter
+
+> 期刊/会议：IROS 2022
+>
+> 代码地址：https://github.com/CaptainWuDaoKou/GE-Grasp
+
+### 论文十一：DIPN: Deep Interaction Prediction Network with Application to Clutter Removal
+
+> 期刊/会议：ICRA 2021
+>
+> 代码地址：https://github.com/arc-l/dipn
